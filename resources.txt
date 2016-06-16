@@ -1,0 +1,7 @@
+Wood
+Mercury
+Ore
+Sulfur
+Crystal
+Gems
+Gold
